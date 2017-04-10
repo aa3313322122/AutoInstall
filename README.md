@@ -1,0 +1,2 @@
+# AutoInstall
+auto install linux
